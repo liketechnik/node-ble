@@ -35,7 +35,7 @@
     "docs:api": "jsdoc2md --template docs/templates/api.hbs --example-lang js --heading-depth 2 src/*.js > docs/api.md"
   },
   "dependencies": {
-    "dbus-next": "git+https://github.com/tuxedoxt/node-dbus-next.git#match-count-logic-fix"
+    "dbus-next": "git+https://github.com/liketechnik/node-dbus-next.git#tcc-2.1.2"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.16.5",
